@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+Developed a stock price calculator app using React 
+To Check This App : https://stockcart-gouri-shankar.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
